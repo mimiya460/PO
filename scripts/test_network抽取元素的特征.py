@@ -16,13 +16,6 @@
 #         # self.driver.find_element_by_xpath("//*[contains(@text,'滑动')]").click()
 #
 #
-#     def teardown(self):
-#         self.driver.quit()
-#
-#
-#
-#
-#
 #
 #
 #
