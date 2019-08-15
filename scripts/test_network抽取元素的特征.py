@@ -24,7 +24,7 @@ def test_mobile_network_4g(self):
 #         # self.driver.find_element_by_xpath("//*[contains(@text,'屏幕锁定')]").click()
 #         # self.driver.find_element_by_xpath("//*[contains(@text,'滑动')]").click()
 #
-#
+#3
 #
 #
 #
