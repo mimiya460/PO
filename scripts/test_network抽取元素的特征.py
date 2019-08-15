@@ -19,10 +19,8 @@ def test_mobile_network_6g(self):
 #         self.network_page.anquan_click()
 #         self.network_page.pingmusd_click()
 #         self.network_page.huadong_click()
+
 def test_mobile_network_8g(self):
-#         self.network_page.anquan_click()
-#         self.network_page.pingmusd_click()
-#         self.network_page.huadong_click()
 
 #         # self.driver.find_element_by_xpath("//*[contains(@text,'安全')]").click()
 #         # self.driver.find_element_by_xpath("//*[contains(@text,'屏幕锁定')]").click()
