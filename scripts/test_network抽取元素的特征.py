@@ -15,7 +15,7 @@
 #         self.network_page.pingmusd_click()
 #         self.network_page.huadong_click()
 
-def test_mobile_network_4g(self):
+def test_mobile_network_6g(self):
 #         self.network_page.anquan_click()
 #         self.network_page.pingmusd_click()
 #         self.network_page.huadong_click()
